@@ -29,7 +29,7 @@ import { FooterComponent } from './footer/footer.component';
     AboutComponent,
     ContactComponent,
     FooterComponent,
-    // PagesComponent
+    PagesComponent
   ],
   imports: [
     BrowserModule,
